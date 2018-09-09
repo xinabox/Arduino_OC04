@@ -10,9 +10,9 @@
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin KEYWORD2
-Write KEYWORD2
-getStatus KEYWORD2
+begin	KEYWORD2
+Write	KEYWORD2
+getStatus	KEYWORD2
 
 #######################################
 # Constants 			(LITERAL1)
