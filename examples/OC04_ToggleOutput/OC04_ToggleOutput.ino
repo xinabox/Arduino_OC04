@@ -13,7 +13,7 @@
 *************************************************************/
 
 /********************* Library Includes *********************/
-#include <arduino-OC04.h> // https://github.com/xinabox/arduino-OC04
+#include <xOC04.h> // https://github.com/xinabox/arduino-OC04
 #include <xCore.h>
 
 /****************** Global sensor objects *******************/

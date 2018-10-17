@@ -10,8 +10,8 @@
 	PCA9554A - http://www.ti.com/lit/ds/symlink/pca9554a.pdf
 */
 
-#ifndef arduino-OC04_h
-#define arduino-OC04_h
+#ifndef xOC04_h
+#define xOC04_h
 
 // Include File Headers
 #include "xCore.h"
